@@ -1,0 +1,19 @@
+{
+	"extends": "English",
+	"dictionaries": {
+		"item": {
+			"ModRandomTweaksBed": ["bed", "Behold, The peak of comfort for sleep, the bed!"]
+		},
+		"doodad": {
+			"ModRandomTweaksBed": ["bed", "Behold, The peak of comfort for sleep, the bed!"]
+		},
+		"skill": {
+			"modRandomTweaksBedmaking": ["bedmaking", "Increases your skill for bedmaking"]
+		}
+	},
+	"pluralizationRules": {
+		"pluralRules": [
+			["^bed$", "beds"]
+		]
+	}
+}

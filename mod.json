@@ -1,0 +1,17 @@
+{
+	"name": "RandomTweaks",
+	"description": "Adds a few small tweaks into the game.",
+	"version": "1.0.1",
+	"author": "RandomOfNoWhere",
+	"github": "https://github.com/",
+	"waywardVersion": "2.15.2-beta",
+	"file": "out/RT.js",
+	"languages": [
+		"lang/english"
+	],
+	"tags": [
+		"Item",
+		"Doodad"
+	],
+	"allowUnlockingMilestones": true 
+}
